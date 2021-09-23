@@ -1,2 +1,2 @@
 # Megatop New Promotions
-https://krlktv.github.io/megatop/
+**Deploy:** https://krlktv.github.io/megatop/
